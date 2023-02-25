@@ -1,0 +1,24 @@
+.CardFilme {
+    background-color: #494949;
+    width: 180px;
+    border-radius: 10px;
+}
+
+.poster {
+    width: 100%;
+    border-radius: 10px;
+}
+
+.data {
+    display: flex;
+    flex-direction: column;
+    padding: .5rem;
+}
+
+.botao {
+    background-color: #ff9100;
+    color: #FFF;
+    text-decoration: none;
+    border-radius: 5px;
+    padding: .3rem 2rem;
+}
